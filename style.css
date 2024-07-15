@@ -66,3 +66,10 @@ ul li {
 button:hover{
     background-color: rgb(207, 197, 197);
 }
+
+@media (max-height: 800px) {
+    h1{
+        font-size: 3.5rem;
+        color: white;
+    }
+}
